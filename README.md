@@ -14,11 +14,11 @@ To introduce you to a work-flow process for designing and simulating logic circu
 
 
 * Ripple Carry Adder  
-Schematic for Ripple Carry Adder
+Schematic for Ripple Carry Adder: 
 ![](https://github.com/ShameenShetty/CSE-2441--Lab1-Intro_to_Quartus_II/blob/master/Ripple%20Carry%20Adder/Ripple%20Carry%20Adder%20schematic.png)  
 
 
-And the Block Diagram File (bdf)
+And the Block Diagram File (bdf) for the Ripple Carry Adder:
 ![](https://github.com/ShameenShetty/CSE-2441--Lab1-Intro_to_Quartus_II/blob/master/Ripple%20Carry%20Adder/Ripple%20Carry%20Adder.png)  
 
 
